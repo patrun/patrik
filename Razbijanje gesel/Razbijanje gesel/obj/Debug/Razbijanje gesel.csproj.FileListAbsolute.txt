@@ -1,0 +1,18 @@
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\bin\Debug\Razbijanje gesel.exe.config
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\bin\Debug\Razbijanje gesel.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\bin\Debug\Razbijanje gesel.pdb
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje gesel.csprojResolveAssemblyReference.cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje_gesel.Form1.resources
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje_gesel.Properties.Resources.resources
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje gesel.csproj.GenerateResource.Cache
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje gesel.exe
+C:\Users\Patrik\Documents\Visual Studio 2013\Projects\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje gesel.pdb
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\bin\Debug\Razbijanje gesel.exe.config
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\bin\Debug\Razbijanje gesel.exe
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\bin\Debug\Razbijanje gesel.pdb
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje gesel.csprojAssemblyReference.cache
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje_gesel.Form1.resources
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje_gesel.Properties.Resources.resources
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje gesel.csproj.GenerateResource.cache
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje gesel.exe
+F:\prenosnik2\MUR\Razbijanje gesel\Razbijanje gesel\obj\Debug\Razbijanje gesel.pdb
