@@ -1,0 +1,25 @@
+﻿  Source.cpp
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(84,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(115,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(117,21): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(135,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(145,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(159,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(160,21): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(187,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(189,21): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(202,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(227,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(246,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(252,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(256,21): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(272,22): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(407,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(412,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(438,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(454,20): warning C4018: '<': signed/unsigned mismatch
+F:\prenosnik2\ARA\ara_4_playfair_adfgx\ara_4_playfair_adfgx\Source.cpp(462,20): warning C4018: '<': signed/unsigned mismatch
+  ara_4_playfair_adfgx.vcxproj -> F:\prenosnik2\ARA\ara_4_playfair_adfgx\Debug\ara_4_playfair_adfgx.exe
