@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  sorting.cpp
+F:\prenosnik2\ARA\ara1\sorting\sorting\sorting.cpp(67,10): warning C4101: 'zacetek': unreferenced local variable
+F:\prenosnik2\ARA\ara1\sorting\sorting\sorting.cpp(69,9): warning C4101: 'trajanje': unreferenced local variable
+F:\prenosnik2\ARA\ara1\sorting\sorting\sorting.cpp(68,4): warning C4101: 'konec': unreferenced local variable
+  sorting.vcxproj -> F:\prenosnik2\ARA\ara1\sorting\Debug\sorting.exe
